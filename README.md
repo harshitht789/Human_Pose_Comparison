@@ -1,2 +1,2 @@
 # Human_Pose_Comparison
- Applied Media Pipe package with Python for Pose Detection of Input Video and Test Video.
+ This code will help us compare two videos with varying poses (Ex: Dance, Fight)
